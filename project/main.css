@@ -1,0 +1,9 @@
+/*pages styles go here*/
+
+#mainCanvas{
+
+border: 1px solid #000000;
+width: 640px;
+height: 480px;
+
+}
